@@ -1,0 +1,25 @@
+{
+  "greeting_message": "AI Pharm Maslahatchisiga xush kelibsiz!\nTilni tanlang:",
+  "main_menu_title": "Amalni tanlang:",
+  "menu": {
+    "effects": "📋 Yon taʼsirlar",
+    "analysis": "🧪 Tahlil natijalari",
+    "dose": "💊 Dorining dozasi",
+    "search": "🔍 Dori izlash"
+  },
+  "prompt": {
+    "effects": "Quyidagi dorilarni o‘zaro ta’sirini tahlil qiling:",
+    "lab": "Quyidagi laboratoriya ko‘rsatkichlarini tahlil qiling:",
+    "inst": "Instrumental tekshiruv natijalarini tahlil qiling:",
+    "dose": "Shu maʼlumotlarga asoslanib dorining xavfsiz dozasini hisoblang:",
+    "pdf": "Quyidagi shaxsiy maʼlumotlardan tozalangan tibbiy matnni tahlil qiling (PDF):"
+  },
+  "input_drugs": "Dori o‘zaro taʼsirini tekshirish uchun dori nomlarini kiriting.",
+  "select_analysis_type": "Tahlil turini tanlang:",
+  "input_lab_data": "Bemorning laboratoriya ko‘rsatkichlarini kiriting.",
+  "input_inst_data": "Instrumental tekshiruv natijalarini kiriting.",
+  "input_dose_data": "Dozani hisoblash uchun bemor maʼlumotlari va dorini kiriting.",
+  "start": "🚀 Start",
+  "restart": "🔄 Restart",
+  "input_search_query": "Xalqaro nomi (INN) boʻyicha dorini kiriting."
+}

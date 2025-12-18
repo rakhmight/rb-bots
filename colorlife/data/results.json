@@ -1,0 +1,164 @@
+[
+  {
+    "id": "54bc12b1-f61c-411d-a9f5-f60c42a95401",
+    "type": "COLOR",
+    "user": {
+      "id": 12091391,
+      "username": "BR_CyberSecurity",
+      "first_name": "Bob",
+      "last_name": "👟👊🏼",
+      "lang": "ru",
+      "profile": {
+        "first": "<j,",
+        "last": ",j,",
+        "pos": "дамтақв"
+      }
+    },
+    "at": "2025-11-21T10:07:16.638Z",
+    "choiceKey": "warm"
+  },
+  {
+    "id": "14ba2849-0af8-434a-b9ce-bbcc57809bca",
+    "type": "COLOR",
+    "user": {
+      "id": 12091391,
+      "username": "BR_CyberSecurity",
+      "first_name": "Bob",
+      "last_name": "👟👊🏼",
+      "lang": "ru",
+      "profile": {
+        "first": "Боб",
+        "last": "Рахимов",
+        "pos": "Врач"
+      }
+    },
+    "at": "2025-11-21T10:07:44.849Z",
+    "choiceKey": "green"
+  },
+  {
+    "id": "8a7f1297-0fc3-4b9c-88d4-910d0545124e",
+    "type": "COLOR",
+    "user": {
+      "id": 12091391,
+      "username": "BR_CyberSecurity",
+      "first_name": "Bob",
+      "last_name": "👟👊🏼",
+      "lang": "uz",
+      "profile": {
+        "first": "Боб",
+        "last": "Рахимов",
+        "pos": "Врач"
+      }
+    },
+    "at": "2025-11-21T10:08:03.749Z",
+    "choiceKey": "warm"
+  },
+  {
+    "id": "ddef80d0-1d48-4620-87c6-acd4103f0822",
+    "type": "COLOR",
+    "user": {
+      "id": 7070942689,
+      "username": "nilufarxon_sharipova",
+      "first_name": "Nilufarxon",
+      "last_name": "Sharipova",
+      "lang": "uz",
+      "profile": {
+        "first": "Nilufar",
+        "last": "Sharipova",
+        "pos": "Psixolog"
+      }
+    },
+    "at": "2025-11-21T10:17:23.250Z",
+    "choiceKey": "cool"
+  },
+  {
+    "id": "3b466226-acbd-4e35-8254-e0c425ac7acd",
+    "type": "COLOR",
+    "user": {
+      "id": 12091391,
+      "username": "BR_CyberSecurity",
+      "first_name": "Bob",
+      "last_name": "👟👊🏼",
+      "lang": "uz",
+      "profile": {
+        "first": "Боб",
+        "last": "Рахимов",
+        "pos": "Врач"
+      }
+    },
+    "at": "2025-11-21T10:25:47.088Z",
+    "choiceKey": "cool"
+  },
+  {
+    "id": "16ddc51a-b30a-4bb1-aef0-e6fbda060daf",
+    "type": "COLOR",
+    "user": {
+      "id": 12091391,
+      "username": "BR_CyberSecurity",
+      "first_name": "Bob",
+      "last_name": "👟👊🏼",
+      "lang": "ru",
+      "profile": {
+        "first": "Боб",
+        "last": "Рахимов",
+        "pos": "Врач"
+      }
+    },
+    "at": "2025-11-21T10:26:02.987Z",
+    "choiceKey": "gray"
+  },
+  {
+    "id": "26ad74be-5126-41b4-9618-f5d410cf2b41",
+    "type": "COLOR",
+    "user": {
+      "id": 12091391,
+      "username": "BR_CyberSecurity",
+      "first_name": "Bob",
+      "last_name": "👟👊🏼",
+      "lang": "ru",
+      "profile": {
+        "first": "Боб",
+        "last": "Рахимов",
+        "pos": "Врач"
+      }
+    },
+    "at": "2025-11-21T10:26:12.966Z",
+    "choiceKey": "cool"
+  },
+  {
+    "id": "1fbbcc1f-e68b-46c9-b92d-fead0ddc2378",
+    "type": "COLOR",
+    "user": {
+      "id": 12091391,
+      "username": "BR_CyberSecurity",
+      "first_name": "Bob",
+      "last_name": "👟👊🏼",
+      "lang": "ru",
+      "profile": {
+        "first": "Боб",
+        "last": "Рахимов",
+        "pos": "Врач"
+      }
+    },
+    "at": "2025-11-21T10:43:32.211Z",
+    "choiceKey": "bw"
+  },
+  {
+    "id": "c87d7436-9d00-4e48-be69-fc71bb446a1f",
+    "type": "COLOR",
+    "user": {
+      "id": 7070942689,
+      "username": "nilufarxon_sharipova",
+      "first_name": "Nilufarxon",
+      "last_name": "Sharipova",
+      "lang": "uz",
+      "profile": {
+        "first": "Nilufar",
+        "last": "Sharipova",
+        "pos": "Psixolog"
+      }
+    },
+    "at": "2025-11-25T05:51:48.338Z",
+    "choiceKey": "cool"
+  }
+]

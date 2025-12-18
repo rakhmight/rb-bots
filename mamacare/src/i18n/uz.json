@@ -1,0 +1,11 @@
+{
+  "welcome": "Salom! Men — MamaCare. Men shifokor emasman, ammo sizni to‘g‘ri yo‘naltirishga yordam beraman: hozir nima qilish, qachon shifokorga murojaat qilish va qachon uyda kuzatish kerak. Nima bo‘ldi?",
+  "menu": [
+    "Savol berish",
+    "FAQ",
+    "Zudlik bilan (RED)",
+    "Til: RU/UZ"
+  ],
+  "red_list": "Zudlik bilan murojaat qiling:\n• Qiyin nafas olish / hushtak ovozi / ko‘krak tortilishi\n• Loqaydlik, tutqanoq, lablarning ko‘karishi\n• Suvsizlanish belgilari (kam siydik, quruq og‘iz, ko‘z yoshi chiqmasligi)\n• Og‘ir shikast / qon ketish / kuyish\n• Batareya/kimyoviy modda yutilgan\n• 3 oygacha go‘dakda T ≥ 38.0°C\n• Petechial toshma",
+  "disclaimer": "Muhim: men shifokor o‘rnini bosa olmayman va dorilar dozalarini tayinlamayman."
+}

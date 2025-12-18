@@ -1,0 +1,25 @@
+{
+  "greeting_message": "Welcome to AI Pharm Consultant!",
+  "main_menu_title": "Choose an action:",
+  "menu": {
+    "effects": "📋 Side Effects",
+    "analysis": "🧪 Analysis Results",
+    "dose": "💊 Dosage Calculation",
+    "search": "🔍 Search Medicine"
+  },
+  "prompt": {
+    "effects": "Analyze the interaction of the following drugs:",
+    "lab": "Analyze laboratory test results:",
+    "inst": "Analyze instrumental diagnostics:",
+    "dose": "Based on the data, calculate the medication dose:",
+    "pdf": "Analyze the following medical report:"
+  },
+  "input_drugs": "Enter the names of drugs to check interactions.",
+  "select_analysis_type": "Select analysis type:",
+  "input_lab_data": "Enter lab test results.",
+  "input_inst_data": "Enter instrumental test data.",
+  "input_dose_data": "Enter data for dosage calculation.",
+  "start": "🚀 Start",
+  "restart": "🔄 Restart",
+  "input_search_query": "Enter the international nonproprietary name (INN) of the medicine."
+}

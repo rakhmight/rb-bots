@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  ai-healthbot:
+    build: .
+    image: ai-healthbot:latest
+    environment:
+      - BOT_TOKEN=${BOT_TOKEN}
+      - DEFAULT_LANG=${DEFAULT_LANG:-ru}
+      - LLM_PROVIDER=${LLM_PROVIDER:-openai}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - LLM_MODEL=${LLM_MODEL:-gpt-4o-mini}
+      - LLM_BASE_URL=${LLM_BASE_URL}
+    volumes:
+      - ./shared:/app/shared:ro
+      - ./src:/app/src
+    restart: unless-stopped

@@ -1,0 +1,23 @@
+{
+  "start": "Salom! Bu AI-HealthBot. Qaysi profil bilan ishlaymiz?",
+  "menu_profiles": "Profilni tanlang:",
+  "btn_profile_general": "🧠 Umumiy",
+  "btn_profile_pregnancy": "🤰 Homiladorlik",
+  "btn_profile_mencare": "👨 Erkaklar",
+  "btn_profile_mamacare": "👩‍🍼 Onalar va bolalar",
+  "menu_actions": "Amalni tanlang:",
+  "btn_symptoms": "🩺 Alomatlar",
+  "btn_upload": "📎 Tahlilni yuklash",
+  "btn_voice": "🎤 Ovozli savol",
+  "btn_lang": "🌐 Til",
+  "btn_switch_profile": "🔁 Boshqa profilni tanlash",
+  "btn_restart": "🔄 Qayta ishga tushirish",
+  "ask_symptom": "Alomatingizni yozing (yosh/muddat, davomiylik, harorat, hamroh kasalliklar).",
+  "wait_ai": "Javob tayyorlanmoqda…",
+  "upload_prompt": "Analiz yoki UZI rasm/PDF yuboring.",
+  "voice_prompt": "Ovozli xabar yuboring — uni matnga aylantirib javob beraman.",
+  "lang_switched": "Til o‘zgartirildi: {{lang}}",
+  "profile_set": "Profil o‘rnatildi: {{p}}",
+  "restarted": "Bot qayta ishga tushirildi. Profilni tanlang:",
+  "error": "Xatolik yuz berdi. Yana urinib ko‘ring."
+}
