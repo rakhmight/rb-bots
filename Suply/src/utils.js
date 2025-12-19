@@ -1,13 +1,9 @@
 import dayjs from "dayjs";
-
-export function todayYMD() {
-  return dayjs().format("YYYY-MM-DD");
-}
-
-export function parseLines(text) {
+export function todayYMD(){ return dayjs().format("YYYY-MM-DD"); }
+export function parseLines(text){
   const bullet = /^(?:[\-\u2212\u2013\u2014\u2022*\s])+/u;
-  return text
+  return String(text)
     .split(/\r?\n/)
-    .map((s) => s.replace(bullet, "").trim())
+    .map(s => s.replace(bullet, "").trim())
     .filter(Boolean);
 }

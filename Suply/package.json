@@ -1,20 +1,20 @@
 {
-  "name": "rolebot_fresh2",
-  "version": "2.1.0",
+  "name": "rolebot-clean",
+  "version": "0.3.0",
   "type": "module",
-  "main": "src/index.js",
+  "description": "Telegram RoleBot: daily templates, rollover, media forwarding, export",
   "scripts": {
     "start": "node src/index.js",
-    "dev": "node src/index.js"
+    "dev": "node --env-file=.env src/index.js"
   },
   "dependencies": {
-    "dayjs": "^1.11.13",
-    "dotenv": "^16.4.5",
+    "dayjs": "^1.11.11",
     "exceljs": "^4.4.0",
     "lowdb": "^7.0.1",
     "nanoid": "^5.0.7",
     "node-cron": "^3.0.3",
     "pdfkit": "^0.15.0",
-    "telegraf": "^4.16.3"
+    "telegraf": "^4.16.3",
+    "dotenv": "^16.4.5"
   }
 }
